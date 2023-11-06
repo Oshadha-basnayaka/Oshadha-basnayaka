@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oshadha Basnayaka and I'm a Student , from Weligama</h2>
+<h2 align="left">Hi 👋! My name is Oshadha Basnayaka</h2>
 
 ###
 
