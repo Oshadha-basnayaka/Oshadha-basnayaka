@@ -43,6 +43,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Oshadha-basnayaka/Oshadha-basnayaka/blob/output/snake.svg" alt="Snake animation" />
 
 ###
